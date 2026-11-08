@@ -1,0 +1,11 @@
+print("Sangeetha BMW Profit Calculator")
+print("Naa BMW dream start ayyindi!")
+
+buy_price = 100
+sell_price = 150
+profit = sell_price - buy_price
+
+print("Buy:", buy_price)
+print("Sell:", sell_price)
+print("Profit:", profit)
+print("BMW ki inka 76,14,900 kavali ra!")
